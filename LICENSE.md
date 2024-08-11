@@ -1,5 +1,6 @@
-MIT License
+# MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) 2024 Gourav Sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
