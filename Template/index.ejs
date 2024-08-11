@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="./icon.png" />
+        <link rel="stylesheet" href="./style.css" />
+        <title>Elephant</title></head>
+    <body>
+        <div id="root" class="flex">
+            <%- include("panel.ejs", { messages: messages } ) %>
+            <div id="main" class="flex">
+                <a href="/new"><button>Add</button></a>
+            </div>
+        </div>
+    </body>
+</html>
